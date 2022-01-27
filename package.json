@@ -1,0 +1,23 @@
+{
+  "name": "soundboardcli",
+  "version": "1.0.0",
+  "description": "Making your own custom python soundboard from command line using ytdl",
+  "main": "bin/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cli"
+  ],
+  "bin": {
+    "add-audio": "./bin/index.js",
+    "soundboard-init": "./bin/soundboard-init.js"
+  },
+  "author": "Dmitri K.",
+  "license": "MIT",
+  "dependencies": {
+    "path": "^0.12.7",
+    "yargs": "^17.3.1",
+    "ytdl-core": "^4.10.0"
+  }
+}
