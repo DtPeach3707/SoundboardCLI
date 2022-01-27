@@ -1,5 +1,11 @@
 # SoundboardCLI
-Making a custom Python soundboard script using ytdl-core from the command line
+Making a custom Python soundboard from the command line using ytdl-core 
+
+# Requirements
+
+- Node.js
+- Pygame's mixer (for playing audio)
+- pynput (for keyboard listeners)
 
 # How to Install
 
