@@ -4,8 +4,8 @@ Making a custom Python soundboard script using ytdl-core from the command line
 # How to Install
 
 <code>
-git clone https://github.com/DtPeach3707/SoundboardCLI.git
-cd SoundboardCLI
+git clone https://github.com/DtPeach3707/SoundboardCLI.git <br>
+cd SoundboardCLI <br>
 npm install -g
 </code>
 
